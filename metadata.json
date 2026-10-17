@@ -1,0 +1,13 @@
+{
+  "name": "LinkPair - Private P2P Peer-to-Peer Kommunikation",
+  "description": "Eine private, direkte Peer-to-Peer-Kommunikationslösung, die WebRTC nutzt, um sichere und verschlüsselte Verbindungen zwischen zwei Geräten herzustellen, ohne auf zentrale Server angewiesen zu sein.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "clipboard-read",
+    "clipboard-write"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
